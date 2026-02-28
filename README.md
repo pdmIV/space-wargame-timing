@@ -11,6 +11,10 @@ To make adjustments to interval times (in seconds) modify the global variables:
   2. WINDOW_SECONDS = the time that a launch window will last for a given team (currently set to 10 seconds)
   3. ORBIT_INTERVAL = the time for when the satellites in polar orbit must rotate (currently set to 5 minutes)
 
+To run the program, either clone the repository and run python space_wargame_timing.py in your terminal,
+or download the space_wargame_timing.py file and cd into the directory where it is saved before running
+python space_wargame_timing.py
+
 # Features:
   1. Live countdown
   2. Timestamps for events
